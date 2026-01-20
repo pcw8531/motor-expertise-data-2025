@@ -44,20 +44,7 @@ motor-expertise-data-2025/
     └── figures/                  # Generated figures (optional)
 ```
 
-## Quick Start
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/pcw8531/motor-expertise-data-2025.git
-cd motor-expertise-data-2025
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the analysis
+### Run the analysis
 ```python
 from src.fractal_analysis import calculate_fractal_dimension, detrended_fluctuation_analysis
 from src.frequency_analysis import compute_fft, compute_psd
