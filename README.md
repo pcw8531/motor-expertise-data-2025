@@ -1,4 +1,4 @@
-# Motor Expertise Data Repository
+# Fractal Motor Expertise Data Repository
 
 ## Study Title
 
